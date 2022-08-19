@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "811989359924",
+    "firebase_url": "https://lab06-amst-g1-default-rtdb.firebaseio.com",
+    "project_id": "lab06-amst-g1",
+    "storage_bucket": "lab06-amst-g1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811989359924:android:37c00b49c2a5952c3c1961",
+        "android_client_info": {
+          "package_name": "com.example.amst5_g1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811989359924-687p1mg768r4hcopnbp7ps8c65tl4rtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZZ_tVSUYVexWloQpdTNOyDt6nPW_FsR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811989359924-687p1mg768r4hcopnbp7ps8c65tl4rtp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "811989359924-e2b1lhrao16c9i3rm1fmuchp0eeqh3rg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.amst5G1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
